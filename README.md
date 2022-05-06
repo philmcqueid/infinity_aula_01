@@ -17,3 +17,35 @@
   - 2022: Python - fonte: https://devbugado.com/5-linguagens-programacao-mais-usadas/
   - 2021: Python - fonte: https://www.tecmundo.com.br/mercado/222806-5-linguagens-programacao-usadas-2021.htm
   - 2020: Python - fonte: https://itforum.com.br/noticias/python-domina-ranking-de-linguagens-de-programacao-de-2020/
+
+### 04 - Liste 3 valores para cada tipo de variável:
+- 1) Inteiro: Idade, número de residência, senha de fila de espera
+- 2) String: Nome, Endereço, Descrição de perfil
+- 3) Float: Dinheiro, Altura, Peso
+### 05
+
+~~~ # Aula Introdução ao Python
+
+# Esta é uma aula de programação
+
+# Vimos que existem várias linguagens, 
+
+# como
+
+# a linguagem Java!
+
+# A linguagem que estamos utilizando é
+
+# a linguagem Python!
+
+# Nossa Aula é na 
+
+# Infinity
+
+# também conhecida como
+
+# Infinity School.
+
+# Bons códigos!
+
+# Esta Linha será um comentário em breve!
