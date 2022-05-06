@@ -12,3 +12,8 @@
 7 - Descer na parada mais próxima da escola
 8 - Caminhar até a escola
 9 - Entrar na escola
+
+### 03 - Linguágens de programação mais utilizadas 2020, 2021, 2022:
+  - 2022: Python - fonte: https://devbugado.com/5-linguagens-programacao-mais-usadas/
+  - 2021: Python - fonte: https://www.tecmundo.com.br/mercado/222806-5-linguagens-programacao-usadas-2021.htm
+  - 2020: Python - fonte: https://itforum.com.br/noticias/python-domina-ranking-de-linguagens-de-programacao-de-2020/
