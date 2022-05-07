@@ -95,3 +95,22 @@ media = (nota_01 + nota_02 + nota_03 + nota_04) / 4
 
 print(f"Sua média final foi: {media}")
 ~~~
+
+
+# Atividade 11 - Peça dois números ao usuário, mostre os resultados de uma calculadora básica
+~~~
+print("\n")
+number_01 = int(input("Digite o primeiro número: "))
+number_02 = int(input("Digite o segundo número: "))
+print("\n")
+
+adicao = number_01 + number_02
+subtracao = number_01 - number_02
+multiplicacao = number_01 * number_02
+divisao = number_01 / number_02
+
+print(f"O resultado de {number_01} + {number_02} = {adicao}")
+print(f"O resultado de {number_01} - {number_02} = {subtracao}")
+print(f"O resultado de {number_01} * {number_02} = {multiplicacao}")
+print(f"O resultado de {number_01} / {number_02} = {divisao}")
+~~~
