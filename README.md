@@ -17,3 +17,69 @@
   - 2022: Python - fonte: https://devbugado.com/5-linguagens-programacao-mais-usadas/
   - 2021: Python - fonte: https://www.tecmundo.com.br/mercado/222806-5-linguagens-programacao-usadas-2021.htm
   - 2020: Python - fonte: https://itforum.com.br/noticias/python-domina-ranking-de-linguagens-de-programacao-de-2020/
+
+### 04 - Liste 3 valores para cada tipo de variável:
+- 1) Inteiro: Idade, número de residência, senha de fila de espera
+- 2) String: Nome, Endereço, Descrição de perfil
+- 3) Float: Dinheiro, Altura, Peso
+### 05
+
+~~~ # Aula Introdução ao Python
+
+# Esta é uma aula de programação
+
+# Vimos que existem várias linguagens, 
+
+# como
+
+# a linguagem Java!
+
+# A linguagem que estamos utilizando é
+
+# a linguagem Python!
+
+# Nossa Aula é na 
+
+# Infinity
+
+# também conhecida como
+
+# Infinity School.
+
+# Bons códigos!
+
+# Esta Linha será um comentário em breve!
+~~~~
+
+# Atividade 6
+~~~
+num_01 = 10
+num_02 = 50
+
+print("O produto de", num_01, "*", num_02, "é:", num_01 * num_02)
+~~~
+# Atividade 7 - Calcule a média entre 8, 9 e 7
+~~~
+media = (8 + 9 + 7) / 3
+
+print(f"A média é: {media}. Esta variável é do tipo {type(media).__name__}")
+~~~
+
+# Atividade 8 - Peça ao usuário para seu nome e sobrenome e apresente em tela
+
+~~~
+user_name = input("Digite seu nome: ")
+user_surname = input("Digite seu sobrenome: ")
+complete_name = f"{user_name} {user_surname}"
+print(f"Seu nome completo é: {complete_name}")
+~~~
+
+# Atividade 9 - Peça ao usuário dois números inteiros e apresente a soma dos dois
+~~~
+int_num_01 = int(input("Número 01: "))
+int_num_02 = int(input("Número 02: "))
+
+result = int_num_01 + int_num_02
+
+print(f"A soma de {int_num_01} + {int_num_02} = {result}")
+~~~
