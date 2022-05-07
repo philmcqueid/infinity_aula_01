@@ -99,10 +99,10 @@ print(f"Sua média final foi: {media}")
 
 # Atividade 11 - Peça dois números ao usuário, mostre os resultados de uma calculadora básica
 ~~~
-print("\n")
+print("\n")  # Apenas para dar espaçamento
 number_01 = int(input("Digite o primeiro número: "))
 number_02 = int(input("Digite o segundo número: "))
-print("\n")
+print("\n")  # Apenas para dar espaçamento
 
 adicao = number_01 + number_02
 subtracao = number_01 - number_02
