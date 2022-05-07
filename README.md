@@ -49,3 +49,27 @@
 # Bons códigos!
 
 # Esta Linha será um comentário em breve!
+~~~~
+
+# Atividade 6
+~~~
+num_01 = 10
+num_02 = 50
+
+print("O produto de", num_01, "*", num_02, "é:", num_01 * num_02)
+~~~
+# Atividade 7 - Calcule a média entre 8, 9 e 7
+~~~
+media = (8 + 9 + 7) / 3
+
+print(f"A média é: {media}. Esta variável é do tipo {type(media).__name__}")
+~~~
+
+# Atividade 8 - Peça ao usuário para seu nome e sobrenome e apresente em tela
+
+~~~
+user_name = input("Digite seu nome: ")
+user_surname = input("Digite seu sobrenome: ")
+complete_name = f"{user_name} {user_surname}"
+print(f"Seu nome completo é: {complete_name}")
+~~~
