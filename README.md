@@ -83,3 +83,15 @@ result = int_num_01 + int_num_02
 
 print(f"A soma de {int_num_01} + {int_num_02} = {result}")
 ~~~
+# Atividade 10 - Refaça o programa das médias, agora com 4 notas, pedindo as notas para o usuário, e, por fim, mostrar o resultado em tela
+~~~
+nota_01 = int(input("Digite a nota 01: "))
+nota_02 = int(input("Digite a nota 02: "))
+nota_03 = int(input("Digite a nota 03: "))
+nota_04 = int(input("Digite a nota 04: "))
+print("\n")
+
+media = (nota_01 + nota_02 + nota_03 + nota_04) / 4
+
+print(f"Sua média final foi: {media}")
+~~~
