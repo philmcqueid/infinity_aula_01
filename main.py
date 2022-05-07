@@ -26,9 +26,45 @@
 
 # Atividade 9 - Peça ao usuário dois números inteiros e apresente a soma dos dois
 
-int_num_01 = int(input("Número 01: "))
-int_num_02 = int(input("Número 02: "))
+# int_num_01 = int(input("Número 01: "))
+# int_num_02 = int(input("Número 02: "))
+#
+# result = int_num_01 + int_num_02
+#
+# print(f"A soma de {int_num_01} + {int_num_02} = {result}")
 
-result = int_num_01 + int_num_02
+# Atividade 10 - Refaça o programa das médias, agora com 4 notas, pedindo as notas para o usuário, e, por fim
+# mostrar o resultado em tela
 
-print(f"A soma de {int_num_01} + {int_num_02} = {result}")
+# nota_01 = float(input("Digite a nota 01: "))
+# nota_02 = float(input("Digite a nota 02: "))
+# nota_03 = float(input("Digite a nota 03: "))
+# nota_04 = float(input("Digite a nota 04: "))
+# print("\n")
+#
+# media = (nota_01 + nota_02 + nota_03 + nota_04) / 4
+#
+# print(f"Sua média final foi: {media}")
+
+# Atividade 11 - Peça dois números ao usuário, mostre os resultados de uma calculadora básica
+
+# print("\n")  # Apenas para dar espaçamento
+# number_01 = int(input("Digite o primeiro número: "))
+# number_02 = int(input("Digite o segundo número: "))
+# print("\n")  # Apenas para dar espaçamento
+#
+# adicao = number_01 + number_02
+# subtracao = number_01 - number_02
+# multiplicacao = number_01 * number_02
+# divisao = number_01 / number_02
+#
+# print(f"O resultado de {number_01} + {number_02} = {adicao}")
+# print(f"O resultado de {number_01} - {number_02} = {subtracao}")
+# print(f"O resultado de {number_01} * {number_02} = {multiplicacao}")
+# print(f"O resultado de {number_01} / {number_02} = {divisao}")
+
+
+print("677", "031", "123", sep=".", end="-")
+print("19")
+
+print("677", "031", "123" + "-19", sep=".")
