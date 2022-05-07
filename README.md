@@ -73,3 +73,13 @@ user_surname = input("Digite seu sobrenome: ")
 complete_name = f"{user_name} {user_surname}"
 print(f"Seu nome completo é: {complete_name}")
 ~~~
+
+# Atividade 9 - Peça ao usuário dois números inteiros e apresente a soma dos dois
+~~~
+int_num_01 = int(input("Número 01: "))
+int_num_02 = int(input("Número 02: "))
+
+result = int_num_01 + int_num_02
+
+print(f"A soma de {int_num_01} + {int_num_02} = {result}")
+~~~
