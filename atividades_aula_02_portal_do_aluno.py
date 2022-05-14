@@ -40,8 +40,8 @@ for i in range(1, 6):
     print(f"Hospital {i}:")
     number_of_respirators = int(input("Quantidade de respiradores: "))
     occupation = float(int(input("Taxa de ocupação: ")) / 100)
-print("\n")
-hospitals.append({"hospital": i, "occupation": occupation, "number_of_respirators": number_of_respirators})
+    print("\n")
+    hospitals.append({"hospital": i, "occupation": occupation, "number_of_respirators": number_of_respirators})
 
 # Verifica se é necessário adicionar mais respiradores
 for hospital in hospitals:
