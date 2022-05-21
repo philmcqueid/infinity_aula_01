@@ -68,10 +68,29 @@
 # else:
 #     print(f"Temperatura atual {current_temperature}. FEBRE GRAVE")
 
-login = input("Login: ").upper().strip()
-password = input("Senha: ")
+# # Atividade 6
 
-if login == "INFINITY" and password == "school":
-    print("Login feito com sucesso!")
-else:
-    print("Login ou senha inválidos!")
+# login = input("Login: ").upper().strip()
+# password = input("Senha: ")
+#
+# if login == "INFINITY" and password == "school":
+#     print("Login feito com sucesso!")
+# else:
+#     print("Login ou senha inválidos!")
+
+
+# # Atividade 7
+# student_name = input("Nome do aluno: ")
+# nota_01 = float(input("Primeira nota: "))
+# nota_02 = float(input("Segunda nota: "))
+#
+# media = round((nota_01 + nota_02) / 2, 2)
+#
+# if media > 7:
+#     print(f"{student_name}, sua média foi de {media}. Aprovado com conceito A")
+# elif 7 >= media > 5:
+#     print(f"{student_name}, sua média foi de {media}. Aprovado com conceito B")
+# elif 4 >= media >= 5:
+#     print(f"{student_name}, sua média foi de {media}. Fará uma avaliação final")
+# else:
+#     print(f"{student_name}, sua média foi de {media}. Reprovado!")
