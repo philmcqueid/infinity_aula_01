@@ -23,7 +23,14 @@
 # number_with_five = 5.12458
 # print(f"{number_with_five:.2F}")
 
-print(5 > 10)  # False
-print(5 < 10)  # True
-print(5 < 10 and 8 < 3)  # False
-print(3 < 5 or 10 < 6)  # True
+# print(5 > 10)  # False
+# print(5 < 10)  # True
+# print(5 < 10 and 8 < 3)  # False
+# print(3 < 5 or 10 < 6)  # True
+
+numero = 10
+
+if numero > 3:
+    print("Este número é maior que 3")
+else:
+    print("Não é maior que 3")
